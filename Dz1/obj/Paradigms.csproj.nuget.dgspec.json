@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VNote\\Desktop\\DZ\\Paradigms\\Dz1\\Paradigms.csproj": {}
+    "c:\\Users\\VNote\\Desktop\\DZ\\Paradigms\\Dz1\\Paradigms.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VNote\\Desktop\\DZ\\Paradigms\\Dz1\\Paradigms.csproj": {
+    "c:\\Users\\VNote\\Desktop\\DZ\\Paradigms\\Dz1\\Paradigms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VNote\\Desktop\\DZ\\Paradigms\\Dz1\\Paradigms.csproj",
+        "projectUniqueName": "c:\\Users\\VNote\\Desktop\\DZ\\Paradigms\\Dz1\\Paradigms.csproj",
         "projectName": "Paradigms",
-        "projectPath": "C:\\Users\\VNote\\Desktop\\DZ\\Paradigms\\Dz1\\Paradigms.csproj",
+        "projectPath": "c:\\Users\\VNote\\Desktop\\DZ\\Paradigms\\Dz1\\Paradigms.csproj",
         "packagesPath": "C:\\Users\\VNote\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VNote\\Desktop\\DZ\\Paradigms\\Dz1\\obj\\",
+        "outputPath": "c:\\Users\\VNote\\Desktop\\DZ\\Paradigms\\Dz1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\VNote\\AppData\\Roaming\\NuGet\\NuGet.Config",
